@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   
   - [osTicket: Ticket Lifecycle Examples](https://github.com/v3a3k3vak-pixel/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
  
 <h2>🤳Connect with me:</h2>
 
