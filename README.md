@@ -6,7 +6,7 @@
   
   - [osTicket: Ticket Lifecycle Examples](https://github.com/v3a3k3vak-pixel/ticket-lifecycle)
     
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Active Directory</b>
   
   - [osTicket: Ticket Lifecycle Examples](https://github.com/v3a3k3vak-pixel/ticket-lifecycle)
   
