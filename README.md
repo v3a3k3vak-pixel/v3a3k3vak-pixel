@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/v3a3k3vak-pixel/configure-ad)
  - <b>Networking Protocols</b>
-     - [Inspecting Network Protocols](https://github.com/v3a3k3vak-pixel/configure-ad)
+     - [Inspecting Network Protocols](https://github.com/v3a3k3vak-pixel/azure-network-protocols)
  
 
 
